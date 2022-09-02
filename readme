@@ -1,0 +1,5 @@
+This tiny simple program randomly generates characters to help you learning sending morse code.
+You will need
+- a PC with python 3 to run the program.
+- a Morse Key and a CW generator (ham radio, IC555 or android morse code generator).
+- a Phone with "Morse Expert" App or other app like that to check sending message.
